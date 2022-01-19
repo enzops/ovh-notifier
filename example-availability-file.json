@@ -1,0 +1,120 @@
+[
+    {
+        "hardware": "1623hardzone1",
+        "region": "europe",
+        "datacenters": [
+            {
+                "availability": "72H",
+                "datacenter": "default"
+            },
+            {
+                "availability": "72H",
+                "datacenter": "gra"
+            },
+            {
+                "datacenter": "sbg",
+                "availability": "72H"
+            },
+            {
+                "availability": "72H",
+                "datacenter": "rbx"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "waw"
+            },
+            {
+                "datacenter": "fra",
+                "availability": "unavailable"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "lon"
+            }
+        ]
+    },
+    {
+        "datacenters": [
+            {
+                "availability": "unavailable",
+                "datacenter": "vin"
+            },
+            {
+                "datacenter": "hil",
+                "availability": "unavailable"
+            },
+            {
+                "datacenter": "bhs",
+                "availability": "unavailable"
+            }
+        ],
+        "region": "northAmerica",
+        "hardware": "1623hardzone1"
+    },
+    {
+        "region": "apac",
+        "datacenters": [
+            {
+                "availability": "unavailable",
+                "datacenter": "sgp"
+            },
+            {
+                "datacenter": "syd",
+                "availability": "unavailable"
+            }
+        ],
+        "hardware": "1623hardzone1"
+    },
+    {
+        "region": "europe",
+        "datacenters": [
+            {
+                "availability": "72H",
+                "datacenter": "default"
+            },
+            {
+                "availability": "72H",
+                "datacenter": "gra"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "sbg"
+            },
+            {
+                "availability": "72H",
+                "datacenter": "rbx"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "waw"
+            },
+            {
+                "datacenter": "fra",
+                "availability": "unavailable"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "lon"
+            }
+        ],
+        "hardware": "1623hardzone2"
+    },
+    {
+        "hardware": "1623hardzone2",
+        "datacenters": [
+            {
+                "datacenter": "vin",
+                "availability": "unavailable"
+            },
+            {
+                "datacenter": "hil",
+                "availability": "unavailable"
+            },
+            {
+                "availability": "unavailable",
+                "datacenter": "bhs"
+            }
+        ],
+        "region": "northAmerica"
+    }
+]

@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  ovh-notifier:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ovh-notifier
+    container_name: ovh-notifier
+    stdin_open: true
+    tty: true
