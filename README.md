@@ -51,7 +51,7 @@ A notification will be send to the notifiers configured when the server is avail
 ### Testing configuration
 
 It would be too bad to not be notified because of a bad configuration.
-To test it, in your configuration file, you can change your `API_URL` with `https://github.com/Wqntedpw/ovh-notifier/example-availability-file.json` . In this file, the server `1623hardzone1` is available in the zone `sbg`. If you start the script (`python3 kimsufi.py`), you should receive notifications by the notifiers you configured.
+To test it, in your configuration file, you can change your `API_URL` with `https://raw.githubusercontent.com/Wqntedpw/ovh-notifier/main/example-availability-file.json` . In this file, the server `1623hardzone1` is available in the zone `sbg`. If you start the script (`python3 kimsufi.py`), you should receive notifications by the notifiers you configured.
 
 ### Adding notifier
 
